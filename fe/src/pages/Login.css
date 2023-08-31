@@ -1,0 +1,38 @@
+.login-container {
+    background-color: #f0f0f0; /* Greyish background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .login-content {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .welcome {
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .welcome img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .login-form {
+    width: 50%;
+  }
+  
+  .register-link {
+    margin-top: 10px;
+  }
+  
